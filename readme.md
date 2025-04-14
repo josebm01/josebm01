@@ -45,7 +45,7 @@
 
 
 <p>
-  <a href="mailto:tu-email@dominio.com">✉️ Email</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/tu-usuario/">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:jose.baxin.marcial@gmail.com">✉️ Email</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/jose-javier-baxin-marcial-392529196/">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://tu-portafolio.com">🌐 Portafolio</a>
 </p>
