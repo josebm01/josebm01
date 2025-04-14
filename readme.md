@@ -15,11 +15,11 @@
 > "El buen software no solo resuelve problemas, también es fácil de entender y de mantener."
 ---
 
-### 🎯 Objetivos actuales
+<!-- ### 🎯 Objetivos actuales
 
 - Mejorar mis habilidades en arquitectura de software y patrones de diseño.
 - Contribuir a proyectos open source relacionados con Laravel o Node.js.
-- Aprender más sobre DevOps y automatización de despliegues con Docker y GitHub Actions.
+- Aprender más sobre DevOps y automatización de despliegues con Docker y GitHub Actions. -->
 
 ### 💡 Algo más sobre mí
 
