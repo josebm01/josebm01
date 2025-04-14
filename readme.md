@@ -40,9 +40,9 @@
 ```
 
 📫 ¿Quieres contactarme?
-	•	✉️ [tu-email@dominio.com]
-	•	💼 LinkedIn
-	•	🌐 [Portafolio o sitio web si tienes]
+	<!-- •	✉️ [tu-email@dominio.com] -->
+	<!-- •	💼 LinkedIn -->
+	<!-- •	🌐 [Portafolio o sitio web si tienes] -->
 
 
 <p>
