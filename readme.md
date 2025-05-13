@@ -39,13 +39,8 @@
 ```
 
 📫 ¿Quieres contactarme?
-	<!-- •	✉️ [tu-email@dominio.com] -->
-	<!-- •	💼 LinkedIn -->
-	<!-- •	🌐 [Portafolio o sitio web si tienes] -->
-
-
 <p>
   <a href="mailto:jose.baxin.marcial@gmail.com">✉️ Email</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/jose-javier-baxin-marcial-392529196/">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://tu-portafolio.com">🌐 Portafolio</a>
+  <a href="https://portfolio-dev-josebm01s-projects.vercel.app/">🌐 Portafolio</a>
 </p>
