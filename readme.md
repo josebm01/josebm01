@@ -5,7 +5,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 💼 Actualmente trabajo como **desarrollador web fullstack**, usando tecnologías como **Laravel, Livewire, PHP, JavaScript y Tailwind CSS**.
+- 💼 Actualmente trabajo como **desarrollador web fullstack**, usando tecnologías como **Laravel, Livewire, PHP, JavaScript y React**.
 - 🌱 Siempre estoy aprendiendo algo nuevo. Últimamente he estado profundizando en **testing, buenas prácticas y arquitectura limpia**.
 - 🛠️ Me gusta trabajar tanto del lado del **backend (PHP, Laravel, NodeJS)** como en el **frontend (HTML, CSS, JS, Tailwind)**.
 - 🔍 Me enfoco en escribir **código limpio, mantenible y escalable**.
@@ -32,10 +32,10 @@
 
 ```bash
 💻  Lenguajes: PHP, JavaScript, TypeScript, HTML, CSS, SQL, Golang
-🧪  Frameworks: Laravel, Livewire, Alpine.js, Tailwind CSS, NextJS, React, React Native
+🧪  Frameworks: Laravel, Livewire, Alpine.js, Tailwind CSS, NextJS, React, React Native, NodeJS
 🛢️  Bases de datos: MySQL, PostgreSQL, MongoDB
 ⚙️  Control de versiones: Git & GitHub
-📦  Otras herramientas: Composer, NPM, Docker (básico), VS Code, Linux
+📦  Otras herramientas: Composer, NPM, PNPM, Docker (básico), VS Code, Linux
 ```
 
 📫 ¿Quieres contactarme?
