@@ -1,46 +1,46 @@
-<h1 align="center">¡Hola! 🤓 Soy José</h1>
-<h3 align="center">Desarrollador Web Fullstack apasionado por crear soluciones eficientes y bien estructuradas</h3>
+<h1 align="center">Hi there! 🤓 I'm José</h1>
+<h3 align="center">Fullstack Web Developer passionate about building efficient and well-structured solutions</h3>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About me
 
-- 💼 Actualmente trabajo como **desarrollador web fullstack**, usando tecnologías como **Laravel, Livewire, PHP, JavaScript y React**.
-- 🌱 Siempre estoy aprendiendo algo nuevo. Últimamente he estado profundizando en **testing, buenas prácticas y arquitectura limpia**.
-- 🛠️ Me gusta trabajar tanto del lado del **backend (PHP, Laravel, NodeJS)** como en el **frontend (HTML, CSS, JS, Tailwind)**.
-- 🔍 Me enfoco en escribir **código limpio, mantenible y escalable**.
-- 📍 Vivo en Veracruz, México 🇲🇽.
-
----
-> "El buen software no solo resuelve problemas, también es fácil de entender y de mantener."
----
-
-<!-- ### 🎯 Objetivos actuales
-
-- Mejorar mis habilidades en arquitectura de software y patrones de diseño.
-- Contribuir a proyectos open source relacionados con Laravel o Node.js.
-- Aprender más sobre DevOps y automatización de despliegues con Docker y GitHub Actions. -->
-
-### 💡 Algo más sobre mí
-
-- Me encanta resolver problemas y automatizar procesos repetitivos.
-- Me interesa el mundo de las tecnologías, lo geek y la programación competitiva.
-- Fuera del teclado, disfruto del café ☕, la música 🎧 e ir al gimnasio 🏋🏻.
+- 💼 I currently work as a **fullstack web developer**, using technologies like **Laravel, Livewire, PHP, JavaScript and React**.
+- 🌱 I'm always learning something new. Lately I've been diving deeper into **testing, best practices and clean architecture**.
+- 🛠️ I enjoy working both on the **backend (PHP, Laravel, NodeJS)** and the **frontend (HTML, CSS, JS, Tailwind)**.
+- 🔍 I focus on writing **clean, maintainable and scalable code**.
+- 📍 I live in Veracruz, Mexico 🇲🇽.
 
 ---
-### 🧰 Tecnologías y herramientas
+> "Good software doesn't just solve problems, it's also easy to understand and maintain."
+---
+
+<!-- ### 🎯 Current goals
+
+- Improve my skills in software architecture and design patterns.
+- Contribute to open source projects related to Laravel or Node.js.
+- Learn more about DevOps and deployment automation with Docker and GitHub Actions. -->
+
+### 💡 A bit more about me
+
+- I love solving problems and automating repetitive processes.
+- I'm interested in the world of technology, geek culture and competitive programming.
+- Away from the keyboard, I enjoy coffee ☕, music 🎧 and going to the gym 🏋🏻.
+
+---
+### 🧰 Technologies and tools
 
 ```bash
-💻  Lenguajes: PHP, JavaScript, TypeScript, HTML, CSS, SQL, Golang
-🧪  Frameworks: Laravel, Livewire, Alpine.js, Tailwind CSS, NextJS, React, React Native, NodeJS
-🛢️  Bases de datos: MySQL, PostgreSQL, MongoDB
-⚙️  Control de versiones: Git & GitHub
-📦  Otras herramientas: Composer, NPM, PNPM, Docker (básico), VS Code, Linux
+💻  Languages: PHP, JavaScript, TypeScript, HTML, CSS, SQL, Golang
+🧪  Frameworks: Laravel, Livewire, Tailwind CSS, NextJS, React, React Native, NodeJS
+🛢️  Databases: MySQL, PostgreSQL, MongoDB
+⚙️  Version control: Git & GitHub
+📦  Other tools: Composer, NPM, PNPM, Docker (basic), VS Code, Linux, n8n
 ```
 
-📫 ¿Quieres contactarme?
+📫 Want to get in touch?
 <p>
   <a href="mailto:jose.baxin.marcial@gmail.com">✉️ Email</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/jose-javier-baxin-marcial-392529196/">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://portfolio-dev-josebm01s-projects.vercel.app/">🌐 Portafolio</a>
+  <a href="https://portfolio-dev-josebm01s-projects.vercel.app/">🌐 Portfolio</a>
 </p>
